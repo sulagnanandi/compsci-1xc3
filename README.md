@@ -1,2 +1,0 @@
-# compsci-1xc3
-All COMPSCI 1XC3 (Computer Science Practice and Experience: Development Basics) exercises and assignments (C). Acquiring familiarity with professional software development settings via practical experience with interaction with UNIX-like systems, programming in C, with documentation, testing, benchmarking, profiling and debugging; shell interaction and programming, pipes and filters; revision control. Summer 2025.
